@@ -144,8 +144,8 @@ public:
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        vSeeds.push_back(CDNSSeedData("mainnet1", "18.204.209.173")); // Arrow
-        vSeeds.push_back(CDNSSeedData("mainnet2", "52.90.76.26")); // Arrow
+        vSeeds.push_back(CDNSSeedData("mainnet1", "140.82.15.72")); // Arrow
+        vSeeds.push_back(CDNSSeedData("mainnet2", "207.148.20.221")); // Arrow
 
         // guarantees the first 2 characters, when base58 encoded, are "ar"
         base58Prefixes[PUBKEY_ADDRESS]     = {0x13,0x0f};
